@@ -1,5 +1,5 @@
-
 # variable = A readable container for a value - string,integer, float, boolean
+
 full_name = "Robo" #string
 print(f"Hello {full_name}")
 
@@ -9,7 +9,7 @@ print(f"You are {age} old")
 gpa = 4.1 #float
 print(f"Your gpa is {gpa}")
 
-is_student = False
+is_student = False #boolean
 print(f"Are you a student?: {is_student}")
 
 if is_student:
