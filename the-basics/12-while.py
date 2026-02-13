@@ -9,7 +9,7 @@ print(name)
 while name == "":
     name = input("Enter your name: ")
 
-age  = int(input("Enter your age: "))
+age = int(input("Enter your age: "))
 
 while age < 0:
     print("Age cannot be less than zero")

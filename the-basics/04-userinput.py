@@ -6,6 +6,6 @@ print(type(name))
 print(f"You are {age} years old!")
 print(type(age))
 
-#age = int(age)
+# age = int(age)
 age += 1
 print(age)

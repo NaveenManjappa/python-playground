@@ -2,10 +2,10 @@
 # Tuple () = immutable, faster
 # Set {} = mutable(add/remove),unordered, NO duplicates, best for membership testing
 
-fruit = "Apple" # single variable
+fruit = "Apple"  # single variable
 
 fruits = ["Apple", "Orange", "Banana", "Coconut"]
-#list - collection of values
+# list - collection of values
 
 print(fruits)
 print(fruits[2])
@@ -17,6 +17,6 @@ print(fruits[2])
 fruits.pop(3)
 
 for fruit in fruits:
-    print(fruit,end=" ")
+    print(fruit, end=" ")
 
 fruits.clear()
