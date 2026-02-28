@@ -1,2 +1,4 @@
 .idea/
 python-for-ai/.env
+modules-packages/__pycache__
+modules-packages/shape_calculator/__pycache__
