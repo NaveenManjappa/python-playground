@@ -2,3 +2,4 @@
 python-for-ai/.env
 modules-packages/__pycache__
 modules-packages/shape_calculator/__pycache__
+pydantic-basics/.env
